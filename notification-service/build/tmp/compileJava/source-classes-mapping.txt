@@ -1,0 +1,2 @@
+com/javastart/notification/NotificationApplication.java
+ com.javastart.notification.NotificationApplication
